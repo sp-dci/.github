@@ -8,6 +8,7 @@ If you are implementing social protection programmes, ensuring contextual factor
 
 If you are a technology solution provider, these standards and guidelines could drive down the cost of accessing new markets. Ultimately, you will be able to shape this consensus-driven process, so that it is able to serve your needs at scale – across countries, programmes and target groups.
 
+
 ## How you can contribute:
 
 True convergence needs meaningful collaboration and dialogue among diverse stakeholders.
@@ -20,8 +21,11 @@ You can participate by:
 - Joining focus group discussions
 - Drafting standards and guidelines
 
-If you have suggestions for future expansions, or think you have found a bug in our code, feel free to **open a new issue** in this repository.
+If you have suggestions for future expansions, or think you have found a bug in our code, feel free to **open a new issue** in the respective repository.
 You can also use the **labels**, e.g. for the respective working groups to make it easier to identify what you and the community is working on and where you would like to contribute.
+
+Feel free to also contribute to the [discussions](https://github.com/orgs/spdci/discussions).
+
 We are always happy to engage with our community.
 
 ## How you can get involved:
