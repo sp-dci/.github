@@ -1,6 +1,8 @@
+
+
 ![Logo](https://sp-convergence.org/wp-content/uploads/2021/11/cropped-Logotipo1-3.png)
 
-# Convergence Initiative
+# About the Digital Convergence Initiative (DCI)
 
 - A joint effort by USP2030 members, governments, development partners, civil society and the private sector aimed at creating integrated and interoperable social protection information systems.
 - An open, transparent and virtual community working to build a global consensus around standards and guidelines for social protection information systems.
@@ -12,7 +14,7 @@ Even though social protection programmes follow a common set of processes, fragm
 This lack of harmonisation and interoperability not only impacts on social protection outcomes, but can also lead to a
 waste of public expenditure.
 
-## The aim of the Convergence Initiative:
+## The aim of the Digital Convergence Initiative:
 
 Reaching consensus on standards and guidelines for interoperability and thus
 
@@ -31,7 +33,7 @@ If you are a technology solution provider, these standards and guidelines could 
 
 True convergence needs meaningful collaboration and dialogue among diverse stakeholders.
 
-Therefore, the initiative is centred around different working groups that will define standards and consolidate work done across institutions and countries. 4 working groups are currently active: (i) principles, (ii) process standards, (iii) data standards and (iv) technical standards.
+Therefore, the initiative is centred around different working groups that will define standards and consolidate work done across institutions and countries. 4 working groups are currently active: (i) principles, (ii) process standards, (iii) data standards and (iv) technical/ API standards.
 
 You can participate by:
 - Sharing existing materials.
@@ -39,11 +41,18 @@ You can participate by:
 - Joining focus group discussions
 - Drafting standards and guidelines
 
+If you have suggestions for future expansions, or think you have found a bug in our code, feel free to **open a new issue** in this repository.
+You can also use the **labels**, e.g. for the respective working groups to make it easier to identify what you and the community is working on and where you would like to contribute.
+We are always happy to engage with our community.
+
 ## How you can get involved:
 
-Send an email to mail@sp-convergence.org and follow us on:
+Check out our [website](https://spdci.org/),
+send an email to contact@spdci.org and follow us on our social media networks on:
 
-- Web: www.spconvergence.org
-- LinkedIn: social-protectionconvergence-initiative
-- Twitter: @sp_convergence
-- Instagram: @sp_convergence
+- [LinkedIn](https://www.linkedin.com/company/digital-convergence-initiative)
+- [Twitter](https://twitter.com/sp_convergence)
+- [Instagram](https://www.instagram.com/sp_dci/)
+
+to stay tuned for our current and future activities.
+
