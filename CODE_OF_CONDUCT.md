@@ -1,11 +1,13 @@
 # Code of Conduct
 
-As a community, we do not tolerate any disrespectful and hateful behaviour and comments of any sort. In particular, there is zero tolerance towards
-* racist
-* sexist
-* insulting
+As a community, we do not tolerate any disrespectful and hateful behaviour, discrimination and comments of any kind. In particular, there is zero tolerance towards discrimination on the basis of
+* gender (identity or expresion)
+* race
+* ethnicity
+* political or religious opinion
+* sexual orientation
+* or anything else
 
-comments and behavior of any sort.  
 Constructive critic is of course always welcome, but please formulate it in a respectful way.
 
 ## In case of violation
