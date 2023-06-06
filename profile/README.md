@@ -1,6 +1,6 @@
 
 
-![Logo](https://sp-convergence.org/wp-content/uploads/2021/11/cropped-Logotipo1-3.png)
+![Logo](./DCILogoHorizontal.png)
 
 # About the Digital Convergence Initiative (DCI)
 
