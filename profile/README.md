@@ -1,6 +1,6 @@
 
 
-![Logo](./DCILogoHorizontal.png)
+![Logo](https://github.com/spdci/.github/blob/main/profile/DCILogoHorizontal.png)
 
 # About the Digital Convergence Initiative (DCI)
 
