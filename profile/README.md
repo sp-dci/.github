@@ -54,8 +54,7 @@ Check out our [website](https://spdci.org/),
 send an email to contact@spdci.org and follow us on our social media networks on:
 
 - [LinkedIn](https://www.linkedin.com/company/digital-convergence-initiative)
-- [Twitter](https://twitter.com/sp_convergence)
-- [Instagram](https://www.instagram.com/sp_dci/)
+
 
 to stay tuned for our current and future activities.
 
